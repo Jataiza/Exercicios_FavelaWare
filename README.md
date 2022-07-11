@@ -1,9 +1,10 @@
-#Resposta das atividade do FavelaWare
-FavelaWare é uma iniciativa voltada para a formação de jovens programadores.
+# Resposta das atividade do FavelaWare
 
-Exercícios feitos na linguagem de programação Python
+Exercícios feitos na linguagem Python.
 
--Lógica Básica: Algoritmos (Pseudocódigo e Python) 
--Lógica Básica: Estrutura de decisão
--Lógica Básica: Estruturas de Repetição
--Lógica Básica: Estruturas de Dados
+-Lógica Básica: Algoritmos (Pseudocódigo e Python)<br> 
+-Lógica Básica: Estrutura de decisão<br> 
+-Lógica Básica: Estruturas de Repetição<br> 
+-Lógica Básica: Estruturas de Dados<br> 
+
+LINK DO SITE:<br>https://favelaware.animahub.com.br
