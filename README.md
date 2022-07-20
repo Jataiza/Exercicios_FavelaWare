@@ -1,6 +1,5 @@
 # Resposta das atividade do FavelaWare
 
-Exercícios feitos na linguagem Python.
 
 -Lógica Básica: Algoritmos (Pseudocódigo e Python)<br> 
 -Lógica Básica: Estrutura de decisão<br> 
