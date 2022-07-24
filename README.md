@@ -1,9 +1,8 @@
-# Resposta das atividade do FavelaWare
+# Resposta das Atividade do Favela Ware
 
-
--Lógica Básica: Algoritmos (Pseudocódigo e Python)<br> 
--Lógica Básica: Estrutura de decisão<br> 
--Lógica Básica: Estruturas de Repetição<br> 
--Lógica Básica: Estruturas de Dados<br> 
-
-LINK DO SITE:<br>https://favelaware.animahub.com.br
+:pushpin:Lógica Básica: Algoritmos (Pseudocódigo e Python)<br> 
+:pushpin:Lógica Básica: Estrutura de decisão<br> 
+:pushpin:Lógica Básica: Estruturas de Repetição<br> 
+:pushpin:Lógica Básica: Estruturas de Dados<br> 
+  
+:globe_with_meridians:<b>URL:</b><br>https://favelaware.animahub.com.br
