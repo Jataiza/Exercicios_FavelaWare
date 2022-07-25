@@ -4,8 +4,6 @@ programa {
 	
 		cadeia  mae,pai,irmao
 		
-		
-		
 		escreva("Digite o nome da sua mãe:")
 		leia(mae)
 		escreva("Digite o nome do seu pai:")
