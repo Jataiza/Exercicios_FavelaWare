@@ -1,4 +1,4 @@
-# Resposta das Atividade do Favela Ware
+# Resposta das atividade do Favela Ware
 
 :pushpin:Lógica Básica: Algoritmos (Pseudocódigo e Python)<br> 
 :pushpin:Lógica Básica: Estrutura de decisão<br> 
