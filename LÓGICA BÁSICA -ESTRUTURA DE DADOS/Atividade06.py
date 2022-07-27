@@ -12,8 +12,7 @@ while quantTemp > i:
     
     lista.append(float(input("escreva temperatura")))
     i+=1
-
-
+    
 else:
     print(lista)
 while lista != ii:
